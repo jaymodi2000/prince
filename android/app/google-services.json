@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "237516587037",
+    "project_id": "prince-c76c8",
+    "storage_bucket": "prince-c76c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237516587037:android:09f49b2382e408311cc6f4",
+        "android_client_info": {
+          "package_name": "com.example.prince"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237516587037-ig2tej37g93aev241e5ciirmp6rg2ag2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsUNQw4S_k6DJeJ2xKbAxPron-SQ2m9iM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237516587037-ig2tej37g93aev241e5ciirmp6rg2ag2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
